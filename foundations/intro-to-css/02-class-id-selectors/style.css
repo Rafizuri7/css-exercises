@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p {
+    background-color: rgb(255, 136, 154);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#Like {
+    color: blue;
+    font-size: 36px;
+}
+
+.Luca {
+    font-size: 24px;
+}
+
+#Mica {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
